@@ -1,0 +1,1 @@
+cmd_certs/built-in.a := rm -f certs/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST certs/built-in.a certs/system_keyring.o certs/system_certificates.o

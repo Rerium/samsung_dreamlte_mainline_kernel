@@ -1,0 +1,1 @@
+cmd_lib/crypto/built-in.a := rm -f lib/crypto/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST lib/crypto/built-in.a lib/crypto/chacha.o lib/crypto/aes.o lib/crypto/arc4.o lib/crypto/des.o lib/crypto/sha256.o

@@ -1,0 +1,1 @@
+cmd_lib/xz/built-in.a := rm -f lib/xz/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST lib/xz/built-in.a lib/xz/xz_dec_syms.o lib/xz/xz_dec_stream.o lib/xz/xz_dec_lzma2.o lib/xz/xz_dec_bcj.o

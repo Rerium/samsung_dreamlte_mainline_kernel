@@ -1,0 +1,1 @@
+cmd_net/netlink/built-in.a := rm -f net/netlink/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST net/netlink/built-in.a net/netlink/af_netlink.o net/netlink/genetlink.o

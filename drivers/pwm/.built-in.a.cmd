@@ -1,0 +1,1 @@
+cmd_drivers/pwm/built-in.a := rm -f drivers/pwm/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST drivers/pwm/built-in.a drivers/pwm/core.o drivers/pwm/sysfs.o drivers/pwm/pwm-samsung.o

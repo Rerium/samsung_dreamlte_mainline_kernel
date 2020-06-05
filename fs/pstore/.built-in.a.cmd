@@ -1,0 +1,1 @@
+cmd_fs/pstore/built-in.a := rm -f fs/pstore/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST fs/pstore/built-in.a fs/pstore/inode.o fs/pstore/platform.o fs/pstore/pmsg.o fs/pstore/ram.o fs/pstore/ram_core.o

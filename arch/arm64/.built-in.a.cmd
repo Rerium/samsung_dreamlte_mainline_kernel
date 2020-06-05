@@ -1,0 +1,1 @@
+cmd_arch/arm64/built-in.a := rm -f arch/arm64/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST arch/arm64/built-in.a arch/arm64/kernel/built-in.a arch/arm64/mm/built-in.a arch/arm64/net/built-in.a arch/arm64/crypto/built-in.a

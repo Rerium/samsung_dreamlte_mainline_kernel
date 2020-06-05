@@ -1,0 +1,1 @@
+cmd_drivers/gpio/built-in.a := rm -f drivers/gpio/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST drivers/gpio/built-in.a drivers/gpio/gpiolib.o drivers/gpio/gpiolib-devres.o drivers/gpio/gpiolib-legacy.o drivers/gpio/gpiolib-devprop.o drivers/gpio/gpiolib-of.o drivers/gpio/gpiolib-sysfs.o

@@ -1,0 +1,1 @@
+cmd_sound/firewire/built-in.a := rm -f sound/firewire/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST sound/firewire/built-in.a 

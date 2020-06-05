@@ -1,0 +1,1 @@
+cmd_block/partitions/built-in.a := rm -f block/partitions/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST block/partitions/built-in.a block/partitions/check.o block/partitions/msdos.o block/partitions/efi.o

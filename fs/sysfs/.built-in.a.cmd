@@ -1,0 +1,1 @@
+cmd_fs/sysfs/built-in.a := rm -f fs/sysfs/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST fs/sysfs/built-in.a fs/sysfs/file.o fs/sysfs/dir.o fs/sysfs/symlink.o fs/sysfs/mount.o fs/sysfs/group.o

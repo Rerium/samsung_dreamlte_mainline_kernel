@@ -1,0 +1,1 @@
+cmd_arch/arm64/lib/built-in.a := rm -f arch/arm64/lib/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST arch/arm64/lib/built-in.a arch/arm64/lib/crc32.o arch/arm64/lib/lib-ksyms.o

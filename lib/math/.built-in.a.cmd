@@ -1,0 +1,1 @@
+cmd_lib/math/built-in.a := rm -f lib/math/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST lib/math/built-in.a lib/math/div64.o lib/math/gcd.o lib/math/lcm.o lib/math/int_pow.o lib/math/int_sqrt.o lib/math/reciprocal_div.o lib/math/rational.o

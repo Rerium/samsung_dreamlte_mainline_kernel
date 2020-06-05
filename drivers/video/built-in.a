@@ -1,0 +1,31 @@
+!<thin>
+//                                              308       `
+backlight/lcd.o/
+backlight/backlight.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/simplefb.o/
+
+/0              0           0     0     644     177496    `
+/17             0           0     0     644     205080    `
+/40             0           0     0     644     143968    `
+/65             0           0     0     644     140136    `
+/89             0           0     0     644     293056    `
+/109            0           0     0     644     190448    `
+/129            0           0     0     644     183048    `
+/150            0           0     0     644     179272    `
+/172            0           0     0     644     181360    `
+/193            0           0     0     644     149456    `
+/213            0           0     0     644     179664    `
+/239            0           0     0     644     169240    `
+/265            0           0     0     644     152368    `
+/289            0           0     0     644     185056    `

@@ -1,0 +1,1 @@
+cmd_net/mptcp/built-in.a := rm -f net/mptcp/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST net/mptcp/built-in.a net/mptcp/protocol.o net/mptcp/subflow.o net/mptcp/options.o net/mptcp/token.o net/mptcp/crypto.o net/mptcp/ctrl.o

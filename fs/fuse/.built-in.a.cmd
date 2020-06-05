@@ -1,0 +1,1 @@
+cmd_fs/fuse/built-in.a := rm -f fs/fuse/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST fs/fuse/built-in.a fs/fuse/dev.o fs/fuse/dir.o fs/fuse/file.o fs/fuse/inode.o fs/fuse/control.o fs/fuse/xattr.o fs/fuse/acl.o fs/fuse/readdir.o

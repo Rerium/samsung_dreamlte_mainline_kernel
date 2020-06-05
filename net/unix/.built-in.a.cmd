@@ -1,0 +1,1 @@
+cmd_net/unix/built-in.a := rm -f net/unix/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST net/unix/built-in.a net/unix/af_unix.o net/unix/garbage.o net/unix/sysctl_net_unix.o net/unix/scm.o

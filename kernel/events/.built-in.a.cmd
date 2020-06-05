@@ -1,0 +1,1 @@
+cmd_kernel/events/built-in.a := rm -f kernel/events/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST kernel/events/built-in.a kernel/events/core.o kernel/events/ring_buffer.o kernel/events/callchain.o kernel/events/hw_breakpoint.o kernel/events/uprobes.o

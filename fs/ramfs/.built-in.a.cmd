@@ -1,0 +1,1 @@
+cmd_fs/ramfs/built-in.a := rm -f fs/ramfs/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST fs/ramfs/built-in.a fs/ramfs/inode.o fs/ramfs/file-mmu.o

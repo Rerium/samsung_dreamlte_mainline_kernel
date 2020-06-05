@@ -1,0 +1,1 @@
+cmd_net/phonet/built-in.a := rm -f net/phonet/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST net/phonet/built-in.a net/phonet/pn_dev.o net/phonet/pn_netlink.o net/phonet/socket.o net/phonet/datagram.o net/phonet/sysctl.o net/phonet/af_phonet.o net/phonet/pep.o net/phonet/pep-gprs.o

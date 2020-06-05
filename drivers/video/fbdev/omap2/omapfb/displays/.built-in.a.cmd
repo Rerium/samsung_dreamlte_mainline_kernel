@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/omapfb/displays/built-in.a := rm -f drivers/video/fbdev/omap2/omapfb/displays/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST drivers/video/fbdev/omap2/omapfb/displays/built-in.a 

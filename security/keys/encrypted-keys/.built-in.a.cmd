@@ -1,0 +1,1 @@
+cmd_security/keys/encrypted-keys/built-in.a := rm -f security/keys/encrypted-keys/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST security/keys/encrypted-keys/built-in.a security/keys/encrypted-keys/encrypted.o security/keys/encrypted-keys/ecryptfs_format.o

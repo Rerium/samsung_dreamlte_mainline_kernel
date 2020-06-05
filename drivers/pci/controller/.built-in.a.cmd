@@ -1,0 +1,1 @@
+cmd_drivers/pci/controller/built-in.a := rm -f drivers/pci/controller/built-in.a; /home/ark/develop/g950f/aarch64-linux-android-4.9-kernel/bin/aarch64-linux-android-ar cDPrST drivers/pci/controller/built-in.a drivers/pci/controller/dwc/built-in.a drivers/pci/controller/pci-thunder-ecam.o drivers/pci/controller/pci-thunder-pem.o drivers/pci/controller/pci-xgene.o
